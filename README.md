@@ -6,7 +6,7 @@ M.Sc. in Data Science and Analytics · Toronto Metropolitan University
 Author: Jeff Ogakwu · Supervisor: Dr. Isaac Woungang
 
 ---
-Why it matters: In credit scoring, an explanation may have to be defended to a regulator or to someone who was turned down for a loan. This study shows that an explanation can't be trusted just because SHAP or LIME produced it, since its stability changed with the model, the method and the kind of change being tested. On this dataset, the simplest and most transparent model was both the most accurate and the most trustworthy.
+Why it matters: In credit scoring, an explanation may have to be defended to a regulator or to someone who was turned down for a loan. This study shows that an explanation can't be trusted just because SHAP or LIME produced it, since its stability changed with the model, the method, and the kind of change being tested. On this dataset, the simplest and most transparent model was both the most accurate and the most trustworthy.
 
 ## Overview
 
