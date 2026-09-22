@@ -110,7 +110,6 @@ python src/explainability/similarity_analysis/run_similarity_test.py
 python src/explainability/model_comparison/run_comparisons.py
 ```
 
-Exact script names may differ slightly once the code is organised into this structure — update this section to match the final file names before publishing.
 
 ## Results
 
